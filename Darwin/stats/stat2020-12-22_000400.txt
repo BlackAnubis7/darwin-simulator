@@ -1,0 +1,68 @@
+### Darwin Simulation ###
+Map #1 | seed: 1213920239
+Map #2 | seed: 1696343896
+#########################
+
+--------------------------------------
+Map #2 | Day: 0
+--- Now ---
+Animals: 7
+Plants: 0
+Dominating gene: 6
+Average Energy: 0.0
+Number of Children: 0.0
+--- Average ---
+Animals: 7.0
+Plants: 0.0
+Dominating gene: 6
+Average Energy: 0.0
+Number of Children: 0.0
+Lifespan: 0.0
+
+--------------------------------------
+Map #2 | Day: 1
+--- Now ---
+Animals: 8
+Plants: 2
+Dominating gene: 4
+Average Energy: 25.375
+Number of Children: 0.25
+--- Average ---
+Animals: 8.0
+Plants: 2.0
+Dominating gene: 4
+Average Energy: 25.375
+Number of Children: 0.25
+Lifespan: 0.0
+
+--------------------------------------
+Map #2 | Day: 2
+--- Now ---
+Animals: 8
+Plants: 4
+Dominating gene: 4
+Average Energy: 24.375
+Number of Children: 0.25
+--- Average ---
+Animals: 8.0
+Plants: 3.0
+Dominating gene: 4
+Average Energy: 24.875
+Number of Children: 0.25
+Lifespan: 0.0
+
+--------------------------------------
+Map #2 | Day: 3
+--- Now ---
+Animals: 8
+Plants: 6
+Dominating gene: 4
+Average Energy: 23.375
+Number of Children: 0.25
+--- Average ---
+Animals: 8.0
+Plants: 4.0
+Dominating gene: 4
+Average Energy: 24.375
+Number of Children: 0.25
+Lifespan: 0.0
