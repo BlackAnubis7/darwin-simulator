@@ -1,0 +1,16 @@
+{
+  "_comment": "fixedSeed 0 means, that seeds are randomized",
+  "width": 24,
+  "height": 18,
+  "jungleWidth": 10,
+  "jungleHeight": 10,
+  "startAnimals": 7,
+  "startEnergy": 30,
+  "movementCost": 1,
+  "plantEnergy": 15,
+  "numberOfMaps": 2,
+  "sleepTime": 300,
+  "fixedSeed": 0,
+  "maxWindowWidth": 1900,
+  "maxWindowHeight": 1060
+}
